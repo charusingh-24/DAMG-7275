@@ -1,0 +1,536 @@
+[
+    {
+        "TerritoryID": 1,
+        "Bottom3Products": [
+            {
+                "ProductID": 898,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 942,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 827,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 943,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 927,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 919,
+                "TotalProductQuantity": 3
+            }
+        ]
+    },
+    {
+        "TerritoryID": 2,
+        "Bottom3Products": [
+            {
+                "ProductID": 890,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 927,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 710,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 902,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 923,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 946,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 943,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 878,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 866,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 871,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 741,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 896,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 930,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 771,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 900,
+                "TotalProductQuantity": 3
+            }
+        ]
+    },
+    {
+        "TerritoryID": 3,
+        "Bottom3Products": [
+            {
+                "ProductID": 914,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 903,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 872,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 866,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 878,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 929,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 956,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 930,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 964,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 922,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 911,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 882,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 931,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 968,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 828,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 830,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 744,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 927,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 921,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 978,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 898,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 891,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 915,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 827,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 902,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 733,
+                "TotalProductQuantity": 3
+            }
+        ]
+    },
+    {
+        "TerritoryID": 4,
+        "Bottom3Products": [
+            {
+                "ProductID": 942,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 943,
+                "TotalProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "TerritoryID": 5,
+        "Bottom3Products": [
+            {
+                "ProductID": 911,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 866,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 927,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 933,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 922,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 830,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 713,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 921,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 871,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 888,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 943,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 878,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 930,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 950,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 919,
+                "TotalProductQuantity": 3
+            }
+        ]
+    },
+    {
+        "TerritoryID": 6,
+        "Bottom3Products": [
+            {
+                "ProductID": 902,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 898,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 911,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 903,
+                "TotalProductQuantity": 3
+            }
+        ]
+    },
+    {
+        "TerritoryID": 7,
+        "Bottom3Products": [
+            {
+                "ProductID": 827,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 778,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 805,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 773,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 776,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 828,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 903,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 898,
+                "TotalProductQuantity": 3
+            }
+        ]
+    },
+    {
+        "TerritoryID": 8,
+        "Bottom3Products": [
+            {
+                "ProductID": 903,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 843,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 778,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 832,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 736,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 828,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 902,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 730,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 833,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 913,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 819,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 726,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 729,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 927,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 849,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 775,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 826,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 774,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 773,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 950,
+                "TotalProductQuantity": 3
+            }
+        ]
+    },
+    {
+        "TerritoryID": 9,
+        "Bottom3Products": [
+            {
+                "ProductID": 810,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 739,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 902,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 926,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 903,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 835,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 898,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 906,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 908,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 936,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 887,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 747,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 897,
+                "TotalProductQuantity": 3
+            }
+        ]
+    },
+    {
+        "TerritoryID": 10,
+        "Bottom3Products": [
+            {
+                "ProductID": 897,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 943,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 927,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 898,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 902,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 942,
+                "TotalProductQuantity": 1
+            },
+            {
+                "ProductID": 727,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 827,
+                "TotalProductQuantity": 2
+            },
+            {
+                "ProductID": 774,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 777,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 887,
+                "TotalProductQuantity": 3
+            },
+            {
+                "ProductID": 776,
+                "TotalProductQuantity": 3
+            }
+        ]
+    }
+]
