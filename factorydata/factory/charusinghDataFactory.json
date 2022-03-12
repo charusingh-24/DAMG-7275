@@ -1,0 +1,9 @@
+{
+	"name": "charusinghDataFactory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d13a8e6-e6e1-4fbf-9e17-076f88917702",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
